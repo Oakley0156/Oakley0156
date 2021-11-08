@@ -1,0 +1,2 @@
+playsound('filename')
+#make sure the file name (wav or .mp3) are in the python folder.
